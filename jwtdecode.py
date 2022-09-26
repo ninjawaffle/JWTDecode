@@ -1,5 +1,4 @@
 import sys
-import os
 import jwt
 
 if len(sys.argv) < 3:
